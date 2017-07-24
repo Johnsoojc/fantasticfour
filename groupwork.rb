@@ -20,6 +20,4 @@ donotrun
 
 puts "Hello its me"
 
-
-puts "wahahahahaha"
-
+puts "bla"
