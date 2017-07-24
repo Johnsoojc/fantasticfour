@@ -1,4 +1,11 @@
 
+
+def abc(x,y)
+  puts x+y
+end
+
+puts abc
+
 puts " Hala!" # ayman
 
 def donotrun
@@ -10,4 +17,5 @@ def donotrun
 end
 
 donotrun
+
 
